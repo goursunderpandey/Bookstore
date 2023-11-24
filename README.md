@@ -1,5 +1,7 @@
 # Bookstore
 
+#To use addbooks feature Signup as author 
+
 To use App live use below link 
 
 [https://bookstoreapp1.netlify.app/](https://bookstoreapp1.netlify.app/)
